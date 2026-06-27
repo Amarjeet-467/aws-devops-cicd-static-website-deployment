@@ -2,12 +2,7 @@
 
 ## 📌 Project Summary
 
-This project demonstrates an end-to-end CI/CD pipeline for deploying a static website using AWS, Jenkins, Docker, GitHub, and GitHub Webhooks.
-
-Whenever a developer pushes code to GitHub, GitHub Webhooks automatically trigger Jenkins. Jenkins fetches the latest source code, builds the project, and deploys the website to both the Jenkins Master and Jenkins Agent (Node).
-
-The project also demonstrates distributed builds using Jenkins Multi-Configuration Jobs.
-
+ In this project, I developed an **end-to-end CI/CD pipeline** to automate the deployment of a static website using **AWS EC2,GitHub,GitHub Webhooks,Jenkins and Docker**.The source code is stored in a GitHub repository, and whenever I push code,  GitHub Webhooks automatically trigger a Jenkins Freestyle Job. Jenkins pulls the latest code and uses a Multi-Configuration Job to deploy it simultaneously on both the Jenkins Master and a JNLP-connected Jenkins Agent running on AWS EC2 instances. Docker is used to containerize the application, ensuring consistent deployments. This project helped me gain hands-on experience with GitHub, Jenkins,GithHub Webhooks, Docker, AWS EC2, Jenkins Master-Agent architecture, and CI/CD automation.
 
 ## 🎯 Project Objectives
 
