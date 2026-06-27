@@ -107,8 +107,7 @@ Website Deployment on Jenkins Agent
 ## 📷 Project Screenshots
 
 ### AWS EC2 Instances 
-screenshots/aws-ec2-instances.png
-)
+![AWS EC2 Instances](screenshots/aws-ec2-instances.png)
 
 
 ### GitHub Repository
