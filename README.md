@@ -114,7 +114,7 @@ Website Deployment on Jenkins Agent
 
 ### GitHub Repository
 ![GitHub Repository](screenshots/github-repo-content.png)
-
+(screenshots/upadated-code-content.png)
 ### GitHub Webhook Configuration
 
 (Add Webhook screenshot here)
