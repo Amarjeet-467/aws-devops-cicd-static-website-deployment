@@ -2,16 +2,17 @@
 
 ## 📌 Project Summary
 
- In this project, I developed an **end-to-end CI/CD pipeline** to automate the deployment of a static website using **AWS EC2,GitHub,GitHub Webhooks,Jenkins and Docker**.The source code is stored in a GitHub repository, and whenever I push code,  GitHub Webhooks automatically trigger a Jenkins Freestyle Job. Jenkins pulls the latest code and uses a Multi-Configuration Job to deploy it simultaneously on both the Jenkins Master and a JNLP-connected Jenkins Agent running on AWS EC2 instances. Docker is used to containerize the application, ensuring consistent deployments. This project helped me gain hands-on experience with GitHub, Jenkins,GithHub Webhooks, Docker, AWS EC2, Jenkins Master-Agent architecture, and CI/CD automation.
+ In this project, I developed an **end-to-end CI/CD pipeline** to automate the deployment of a static website using **AWS EC2,GitHub,GitHub Webhooks,Jenkins and Docker**.The source code is stored in a GitHub repository, and whenever I push code,  GitHub Webhooks automatically trigger a Jenkins Freestyle Job. Jenkins pulls the latest code and uses a Multi-Configuration Job to deploy it simultaneously on both the Jenkins Master and a JNLP-connected Jenkins Agent running on AWS EC2 instances. Docker is used to containerize the application, ensuring consistent deployments. This project helped me gain hands-on experience with GitHub, Jenkins,GithHub Webhooks, Docker, AWS EC2, Jenkins Master-Agent architecture, and CI/CD automation while reducing manual deployment efforts by implementing an automated, reliable, and repeatable CI/CD deployment workflow. 
 
 ## 🎯 Project Objectives
 
 - Automate website deployment using Jenkins.
 - Integrate GitHub with Jenkins using Webhooks.
-- Deploy the same website on multiple servers.
+- Deploy the same website simultaneously on both the Jenkins Master and JNLP connected Agent.
 - Learn CI/CD pipeline implementation.
 - Understand Jenkins Master-Agent architecture.
 - Perform distributed builds using Multi-Configuration Jobs.
+- To reduce manual deployment efforts by creating an automated, reliable, and repeatable deployment workflow.
 
 
 ## 🛠️ Technologies Used
