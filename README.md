@@ -129,7 +129,7 @@ Website Deployment on Jenkins Agent
 ![Jenkins Freestyle Job](screenshots/freestyle-job-status-agent.png)
 
 
-### Multi-Configuration Job
+### Multi-Configuration Job (Master & Node)
 
 (Add Screenshot)
 
