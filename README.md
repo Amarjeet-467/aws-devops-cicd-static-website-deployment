@@ -121,8 +121,7 @@ Website Deployment on Jenkins Agent
 
 
 ### Jenkins Freestyle Job (Master)
-
-(Add Screenshot)
+![Jenkins Freestyle Job](screenshots/freestyle-job-master.png)
 
 
 ### Jenkins Freestyle Job (Agent)
