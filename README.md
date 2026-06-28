@@ -132,6 +132,7 @@ Website Deployment on Jenkins Agent
 ### Multi-Configuration Job (Master & Node)
 
 ![Multi-Configuration Job](screenshots/master-node-job-status-png)
+![Multi-Configuration job](screenshots/multi-configuratuion-job-status.png)
 
 
 ### Website Successfully Running on Jenkins Master before code chnages and after code changes
