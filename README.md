@@ -136,7 +136,9 @@ Website Deployment on Jenkins Agent
 
 
 ### Website Successfully Running on Jenkins Master before code chnages
+
 ![Website Successfully Running on Jenkins Master before code chnages](screenshots/website-on-jenkins-master-before-code-changes.png)
+
 
 ### Website Successfully Running on Jenkins Master after code changes
 
