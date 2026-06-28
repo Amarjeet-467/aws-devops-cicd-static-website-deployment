@@ -135,13 +135,16 @@ Website Deployment on Jenkins Agent
 ![Multi-Configuration job](screenshots/multi-configuratuion-job-status.png)
 
 
-### Website Successfully Running on Jenkins Master before code chnages and after code changes
-
-![Website Running on Jenkins Master - Before Code Changes](screenshots/website-on-jenkins-master-before-code-changes .png)
-![Website Running on Jenkins Master - After Code Changes](
+### Website Successfully Running on Jenkins Master before code chnages
 
 
-### Website Successfully Running on Jenkins Agent before code chnages and after code changes
+### Website Successfully Running on Jenkins Master after code changes
+
+
+### Website Successfully Running on Jenkins Agent before code chnages
+
+
+### Website Successfully Running on Jenkins Agent after code changes
 
 (Add Screenshot)
 
