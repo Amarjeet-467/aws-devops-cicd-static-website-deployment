@@ -114,8 +114,6 @@ Website Deployment on Jenkins Agent
 
 ### GitHub Repository
 
- width="1920" height="1020" alt="github-repo-content" src="https://github.com/user-attachments/assets/1a65d124-dbda-46ca-b564-0e33b1bd614f" />ory screenshot here)
-
 
 ### GitHub Webhook Configuration
 
