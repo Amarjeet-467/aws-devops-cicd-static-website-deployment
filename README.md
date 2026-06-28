@@ -137,7 +137,7 @@ Website Deployment on Jenkins Agent
 
 ### Website Successfully Running on Jenkins Master before code chnages
 
-![Website Successfully Running on Jenkins Master before code chnages](screenshots/website-on-jenkins-master-before-code-changes.png)
+![Website Successfully Running on Jenkins Master before code chnages](https://github.com/Amarjeet-467/aws-devops-cicd-static-website-deployment/blob/master/screenshots/website-on-jenkins-master-before-code-changes%20.png)
 
 
 ### Website Successfully Running on Jenkins Master after code changes
