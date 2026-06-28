@@ -113,7 +113,7 @@ Website Deployment on Jenkins Agent
 
 
 ### GitHub Repository
-![GitHub Repository](github-repo-content.png)
+![GitHub Repository](screenshots/github-repo-content.png)
 
 ### GitHub Webhook Configuration
 
