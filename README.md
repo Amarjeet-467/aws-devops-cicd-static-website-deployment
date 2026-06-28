@@ -126,7 +126,7 @@ Website Deployment on Jenkins Agent
 
 ### Jenkins Freestyle Job (Agent)
 
-(Add Screenshot)
+![Jenkins Freestyle Job](screenshots/freestyle-job-status-agent.png)
 
 
 ### Multi-Configuration Job
