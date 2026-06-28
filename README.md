@@ -117,7 +117,7 @@ Website Deployment on Jenkins Agent
 ![GitHub Repository](screenshots/upadated-code-content.png)
 ### GitHub Webhook Configuration
 
-(Add Webhook screenshot here)
+![GitHub Webhook Configuration](screenshots/github-webhook configuration.png)
 
 
 ### Jenkins Freestyle Job (Master)
