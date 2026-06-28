@@ -153,7 +153,7 @@ Website Deployment on Jenkins Agent
 
 ### Website Successfully Running on Jenkins Agent after code changes
 
-(Add Screenshot)
+![Website Successfully Running on Jenkins Agent after code changes](screenshots/website-on-agent-after-code-changes.png)
 
 
 ## 📈 Skills Demonstrated
